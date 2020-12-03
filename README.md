@@ -1,4 +1,4 @@
-# TSF-Internship-Tasks
+# The Sparks Foundation Internship Tasks
 Data Science &amp; Business Analytics Internship.
 
 ## Task 1 : Prediction using Supervised ML 
