@@ -7,6 +7,10 @@ Data Science &amp; Business Analytics Internship.
 
  > What will be predicted score if a student studies for 9.25 hrs/ day?
  
- > DataSet_Task 1 : http://bit.ly/w-data
+ > Dataset_Task 1 : http://bit.ly/w-data
 
-## Task 2 :
+## Task 2 : Prediction using Unsupervised ML
+
+ > From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+ > Dataset_Task 2 : https://bit.ly/3kXTdox
