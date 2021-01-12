@@ -15,7 +15,7 @@ Data Science &amp; Business Analytics Internship.
 
  ● Dataset_Task 2 : https://bit.ly/3kXTdox
 
-## Task 2 : Prediction using Unsupervised ML
+## Task 3 : Exploratory Data Analysis
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’.
 
