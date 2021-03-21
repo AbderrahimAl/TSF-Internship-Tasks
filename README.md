@@ -1,6 +1,10 @@
 # The Sparks Foundation Internship Tasks
 Data Science &amp; Business Analytics Internship.
 
+<p align="center">
+<img src="https://github.com/AbderrahimAl/TSF-Internship-Tasks/blob/main/1533219594764.jpg">
+</p>
+
 ## Task 1 : Prediction using Supervised ML 
 
  ● Predict the percentage of an student based on the no. of study hours.
